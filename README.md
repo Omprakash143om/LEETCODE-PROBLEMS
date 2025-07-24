@@ -19,9 +19,18 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
