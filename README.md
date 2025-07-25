@@ -15,6 +15,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0551-student-attendance-record-i](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0551-student-attendance-record-i) |
 ## Array
 |  |
 | ------- |
