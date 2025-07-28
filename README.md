@@ -23,6 +23,7 @@
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
