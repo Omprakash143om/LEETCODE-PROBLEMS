@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
