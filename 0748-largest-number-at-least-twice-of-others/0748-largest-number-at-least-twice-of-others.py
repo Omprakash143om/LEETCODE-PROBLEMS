@@ -4,11 +4,9 @@ class Solution:
         c=nums.index(a)
         nums.remove(a)
         squarenum=list(map(lambda x:x*2,nums))
-        b=False
+        b=True
         for i in squarenum:
-            if a>=i:
-                b=True
-            else:
+            if a<i:
                 b=False
                 break
         if b==True:
