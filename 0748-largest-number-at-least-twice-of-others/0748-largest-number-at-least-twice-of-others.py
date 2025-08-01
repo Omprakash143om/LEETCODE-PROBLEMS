@@ -9,7 +9,7 @@ class Solution:
             if a<i:
                 b=False
                 break
-        if b==True:
+        if b:
             return c
         else:
             return -1
