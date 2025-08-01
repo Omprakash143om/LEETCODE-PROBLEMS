@@ -25,6 +25,7 @@
 | [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Stack
 |  |
 | ------- |
