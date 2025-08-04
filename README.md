@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0728-self-dividing-numbers](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
