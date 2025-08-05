@@ -18,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0551-student-attendance-record-i](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0551-student-attendance-record-i) |
+| [0812-rotate-string](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
