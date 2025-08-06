@@ -61,6 +61,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
