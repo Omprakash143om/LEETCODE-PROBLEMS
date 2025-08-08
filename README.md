@@ -29,6 +29,7 @@
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1306-minimum-absolute-difference](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/1306-minimum-absolute-difference) |
 ## Trie
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1306-minimum-absolute-difference](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/1306-minimum-absolute-difference) |
 ## Stack
 |  |
 | ------- |
