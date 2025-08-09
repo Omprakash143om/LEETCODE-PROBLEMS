@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1306-minimum-absolute-difference](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/1306-minimum-absolute-difference) |
 ## Stack
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0203-remove-linked-list-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
