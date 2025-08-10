@@ -12,12 +12,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0728-self-dividing-numbers](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
 | [0551-student-attendance-record-i](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0812-rotate-string) |
 ## Array
