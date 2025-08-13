@@ -6,8 +6,5 @@ class Solution:
         Max=[]     
         S=m.split("0")
         for i in S:
-            Sum=0
-            for j in i:
-                Sum+=int(j) 
-            Max.append(Sum) 
+            Max.append(len(i))
         return max(Max)
