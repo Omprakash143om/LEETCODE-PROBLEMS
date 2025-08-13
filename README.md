@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
