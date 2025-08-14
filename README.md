@@ -36,6 +36,7 @@
 | [0575-distribute-candies](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1306-minimum-absolute-difference](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/1306-minimum-absolute-difference) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
