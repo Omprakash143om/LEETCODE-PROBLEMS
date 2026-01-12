@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
@@ -27,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
