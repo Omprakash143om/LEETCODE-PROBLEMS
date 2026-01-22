@@ -32,6 +32,7 @@
 | [0014-longest-common-prefix](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## String Matching
