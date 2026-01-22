@@ -80,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 ## Linked List
 |  |
@@ -115,4 +116,16 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Omprakash143om/LEETCODE-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
